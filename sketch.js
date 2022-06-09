@@ -432,7 +432,7 @@ function reset(){
     highscore = highscore
     score = 0
     gamestate = "play"
-    mothershipHP = 20
+    mothershipHP = 80
     planet.x = 200
     planet.y = 800
     planet.velocityY = 0.8
